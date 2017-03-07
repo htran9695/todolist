@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  task: MyString
+  start_time: 2017-03-06 16:00:23
+  end_time: 2017-03-06 16:00:23
+  date: 2017-03-06
+
+two:
+  task: MyString
+  start_time: 2017-03-06 16:00:23
+  end_time: 2017-03-06 16:00:23
+  date: 2017-03-06
